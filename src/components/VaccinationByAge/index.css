@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.vaccination-by-age-container {
+  border-radius: 5px;
+  background-color: #1c1c2b;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.vaccination-by-age-heading {
+  color: #94a3b8;
+  font-size: 15px;
+}
